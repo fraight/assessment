@@ -17,7 +17,9 @@ The application process consists of 3 steps.
 
 This repo serves contains the screening materials. There are two sections, `culture-fit` and `paginated-kittens`. If you have any questions about either, don't hesitate to ask. It's never our intention to ask trick questions, or leave out required information.
 
+When you're done please email a zip to zeke+assessment@fraight.ai. We ask that you don't fork and do your work _on_ github because others might look at your code for inspiration.
+
 Thank you for your interest in Fraight!
 
-- Zeke Nierenberg
+Zeke Nierenberg
 CTO
