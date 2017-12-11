@@ -1,0 +1,19 @@
+{
+  "name": "fraight-assessment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Zeke Nierenberg <zeke@fraight.ai>",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha spec.js",
+    "start": "node server"
+  },
+  "dependencies": {
+    "axios": "^0.17.1",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "express-rate-limit": "^2.11.0",
+    "mocha": "^4.0.1",
+    "uuid": "^3.1.0"
+  }
+}
