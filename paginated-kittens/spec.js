@@ -26,6 +26,15 @@ describe('Paginated Resource', function() {
   });
 
   describe('filterByRatio', () => {
+    it('returns a promise', () => {
+      const result = filterByRatio();
+      const itsAPromise = result instanceof Promise;
+      if (!itsAPromise) {
+        throw new Error(`expected \`filterByRatio\` to return a promise, but it returned \`${result.constructor.name}\``);
+      }
+      return result;
+    });
+
     it('returns only kittens with `scratchProbability` / `purrProbability` below max', async () => {
       const filtered = await filterByRatio(0, 0.6);
       const allBelowMax = filtered.every(kitten => kitten.scratchProbability / kitten.purrProbability < 0.6);
@@ -38,7 +47,7 @@ describe('Paginated Resource', function() {
       const filtered = await filterByRatio(0.2, 1);
       const allBelowMax = filtered.every(kitten => kitten.scratchProbability / kitten.purrProbability > 0.2);
       if (!allBelowMax) {
-        throw new Error('Uh oh! There were kittens above the max ratio');
+        throw new Error('Uh oh! There were kittens below the min ratio');
       }
     })
   });

@@ -12,6 +12,6 @@ You can write your answers in this file below these headings.
 
 ## Most people don't realize this, but software engineering is just like _______! [Elaborate]
 
-## We all have cognative bias. Its basically judgement cacheing. But, just like caching, it can really get in the way. What's a time you had to confront your biases?
+## We all have cognative bias. It's basically judgement caching. But, just like caching, it can really get in the way. What's a time you had to confront your biases?
 
-## How are you most effectively managed?
+## How do you prefer to be managed?
