@@ -2,7 +2,7 @@
 
 Dear Applicant,
 
-We're excited you're interested in working at Fraight. cacheingYou and I are engaged in one of the most difficult human tasks. Picking a software engineer--or in your case, picking a company--is the task of match making. It's impossible to find a precise formula for building a cohesive, happy team. The stakes are also high. Getting a job you don't like is as expensive for you as a mismatched hire is for us.
+We're excited you're interested in working at Fraight. You and I are engaged in one of the most difficult human tasks. Picking a software engineer--or in your case, picking a company--is the task of match making. It's impossible to find a precise formula for building a cohesive, happy team. The stakes are also high. Getting a job you don't like is as expensive for you as a mismatched hire is for us.
 
 With this in mind, we want to commit to you the following values:
 - Thoroughness. We're going to ask the tough questions--just as we expect you to!
