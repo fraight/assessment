@@ -6,12 +6,8 @@ There are no right answers, we're just trying to get a sense of how you think an
 
 You can write your answers in this file below these headings.
 
-## Describe a time when you faced a difficult tradeoff. What steps did you take to come to your decision?
-
-## Tell us about a time when your product vision diverged from a co-worker. How did you handle it? How did they? What was the resolution?
+## While writing software, its common to face tradeoffs. What's your process for making decisions when there's a fork in the road, and merits to both options?
 
 ## Most people don't realize this, but software engineering is just like _______! [Elaborate]
 
 ## We all have cognative bias. It's basically judgement caching. But, just like caching, it can really get in the way. What's a time you had to confront your biases?
-
-## How do you prefer to be managed?
